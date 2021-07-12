@@ -8,3 +8,4 @@
 
 .editorconfig text eol=lf
 LICENSE-* text eol=lf
+_redirects text eol=lf
