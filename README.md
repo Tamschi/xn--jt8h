@@ -4,5 +4,5 @@
 
 Not actually hosted on that subdomain because my domain provider doesn't like that.
 
-Read more here: <https://plausible.io/privacy-focused-web-analytics>
+Read more here: <https://plausible.io/privacy-focused-web-analytics>  
 I've made my stats public: <https://plausible.io/schichler.dev>
